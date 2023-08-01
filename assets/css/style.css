@@ -23,14 +23,14 @@
     color: antiquewhite;
 
 }
-.carrothover td:hover{
+.carrothover :hover{
     background-color: fuchsia;
 }
-.tomatohover td:hover{
+.tomatohover :hover{
     background-color:blue;
 
 }
-.onionhover td:hover{
+.onionhover :hover{
     background-color: chartreuse;
 }
 .price{

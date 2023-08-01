@@ -1,0 +1,44 @@
+.tablestyle{
+    border: 1px solid black;
+    padding: 20px;
+    border-collapse: collapse;
+}
+.veg{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.tomatoprice{
+    background-color: burlywood;
+}
+.carrotprice{
+    background-color: darkgoldenrod;
+
+}
+.onionprice{
+    background-color: darkgrey;
+}
+.season{
+    background-color: crimson;
+    color: antiquewhite;
+
+}
+.carrothover td:hover{
+    background-color: fuchsia;
+}
+.tomatohover td:hover{
+    background-color:blue;
+
+}
+.onionhover td:hover{
+    background-color: chartreuse;
+}
+.price{
+    background-color: darkolivegreen;
+}
+.tablestyle>caption{
+    font-style: italic;
+    font-weight: bold;
+    color:red;
+    font-size: large;
+}
